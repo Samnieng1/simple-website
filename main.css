@@ -29,7 +29,7 @@ li{
     --btnFontColor: var(--black);
   }
 :root{
-    --green:#00FF00;
+    --green: #ff70fd;
     --white:#FFFFFF;
     --black:#000000;
 }
